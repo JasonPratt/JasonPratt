@@ -5,3 +5,8 @@ As you can see, this file is full of production secrets:
 3. 45v7394nv58
 4. 457vn3n5v7
 5. password123
+6. supersecret123
+7. iloveyou999
+8. donttellanyone!!
+9. thisissecret987
+10. sk-token-totallylegit123
